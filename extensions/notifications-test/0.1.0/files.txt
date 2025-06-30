@@ -1,0 +1,4 @@
+plugin/img/icon.f3179adf.svg
+plugin/notifications-test-0.1.0.umd.min.js
+plugin/notifications-test-0.1.0.umd.min.js.map
+plugin/package.json
